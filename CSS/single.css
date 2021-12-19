@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ZTcolor {
+    color: #746b6c;
+}
+.ZT01{
+    font-size: 27px;
+    margin-top: 30px;
+    color: rgb(59, 59, 59);
+}
+.header{
+    background-color: bisque;
+    height: 60px;
+    width: auto;
+    background-color:rgb(247, 242, 226);
+    border-bottom: solid 1px rgb(133, 128, 128);
+    position:fixed;
+    left:0px;
+    top:0px;
+    width:100%;
+
+}
+.header-nav{
+    height: 60px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    float: left;
+}
+.header-nav:hover{
+    height: 60px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    float: left;
+    color: #2b2727;
+    box-shadow:3px 3px 3px #888888;
+}
+
+.header-nav:active{
+    height: 60px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    float: left;
+    color: #2b2727;
+    box-shadow:3px 3px 3px #888888;
+}
+.shadow{
+    box-shadow: 5px 5px 3px #888888;
+}
+a{
+    line-height:60px; text-align:center;
+}
+.bodyy{
+    height: 900px;
+    width: auto;
+    /* background-color: rgb(252, 252, 252); */
+    background-color: rgb(243, 240, 236);
+    margin-top: 1px;
+}
+.zhuti{
+    /* background-color: rgb(255, 255, 255); */
+    background-color: rgb(243, 240, 236);
+    padding: 150px;
+}
+.zhuti-hezi{
+    height: 400px;
+    width: 700px;
+    border:#a495db dashed 2px ;
+    border-radius: 10px;
+    text-align:center;
+    margin: 0 auto;
+
+}
+.img01{
+    margin-top: 50px;
+}
+.button{
+    height: 70px;
+    width: 230px;
+    border: #a495db solid 2px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 60px;
+    text-align: center;
+}
+.button:hover{
+    height: 70px;
+    width: 230px;
+    border: #a495db solid 2px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 60px;
+    text-align: center;
+    background-color: #a495db ;
+    color: rgb(255, 255, 255);
+}
+.ZT02{
+    font-size: 17px;
+    margin-top: 20px;
+}
+.footer{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+    overflow: hidden;
+    /* border: #746b6c solid ;
+    border-bottom: 1px; */
+}
+.logo>:first-child{
+    font-size: 20px;
+    color: rgb(0, 150, 136);
+    display: block;
+    float: left;
+    margin: 18px 20px auto 20px;
+}
+.logo>:last-child{
+    font-size: 20px;
+    color: rgb(59, 59, 59);
+    display: block;
+    float: left;
+    margin: 18px 20px auto 20px;
+}
